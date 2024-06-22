@@ -1,0 +1,17 @@
+@media(max-width: 620px){
+    .cars-slid{
+        margin-top: 7rem;
+        padding: 15px;
+        gap: 10px;
+    }
+
+    .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+
+    .cars{
+        height: 480px;
+    }
+}
