@@ -1,8 +1,8 @@
-@media(max-width: 620px){
+@media(max-width: 930px){
     .cars-slid{
-        margin-top: 7rem;
+        margin-top: 10rem;
         padding: 15px;
-        gap: 10px;
+        gap: 12px;
     }
 
     .btn-seta{
@@ -12,6 +12,6 @@
     }
 
     .cars{
-        height: 480px;
+        height: 535px;
     }
 }
